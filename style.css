@@ -1,0 +1,32 @@
+.body{
+    background-color: rgb(151, 202, 202);
+    background-image: url(image/image5.jpg);
+    background-repeat: no-repeat;  
+}
+.row{
+    margin-top:50px;
+}
+.text-center{
+    color: blue;
+    margin-top: 70px;
+    font-size: 45px;
+}
+
+/*.conteiner2 {
+    display: flex;
+    flex-flow: row nowrap;
+    height: 100%;
+  }
+  .card {
+    width: 40%;
+    height: 40%;
+  }*/
+ /* .row1{
+    display: flex;
+    flex-flow: row nowrap;
+    height: 100%;
+  }
+  .card {
+    width: 40%;
+    height: 40%;
+  }*/
